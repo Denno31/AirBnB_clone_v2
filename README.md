@@ -1,2 +1,1 @@
-# AirBnB_clone_v2
-airbnb clone v2
+This project is **0x02. AirBnB clone - MySQL**
